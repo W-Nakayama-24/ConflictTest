@@ -1,5 +1,7 @@
 # ConflictTest
 
-ますたー
+マスター
 
-this is branch 1
+THIS IS BRANCH 2
+
+THIS IS THE STORY OF JAGERMEISTER
